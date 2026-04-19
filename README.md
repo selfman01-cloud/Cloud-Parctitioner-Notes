@@ -3,10 +3,16 @@ Studying for AWS Certified Cloud Practitioner. No Free Tier access.
 Using Skill Builder labs + documenting everything.
 
 **Progress:** 1/12 modules complete - 88%
+
 **Started:** April 19, 2026 - Lagos, Nigeria.
+
 **Goal:** Pass CLF-C02 by May 15, 2026
+
 **No credit card. No excuses. No days off.**
-**Blocked:** AWS Free Tier verification. **Solution:** Learn anyway.
+
+**Blocked:** AWS Free Tier verification. 
+
+**Solution:** Learn anyway.
 ## Modules
 - [x] Module 1: Cloud Concepts - 88%
 - [ ] Module 2:

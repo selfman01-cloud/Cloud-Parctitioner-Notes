@@ -4,6 +4,7 @@ Using Skill Builder labs + documenting everything.
 
 **Progress:** 1/12 modules complete - 88%
 **Started:** April 19, 2026 - Lagos, Nigeria
+
 **Goal:** Pass CLF-C02 by May 15, 2026
 
 ## Modules

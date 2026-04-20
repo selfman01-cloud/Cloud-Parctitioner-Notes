@@ -41,10 +41,15 @@ Using Skill Builder labs + documenting everything.
 
   
 ### Module 2: Compute in the Cloud - COMPLETE ✅
+
 **Date:** Apr 20, 2026 00:35
+
 **Score:** 86% — Passing: 80%
+
 **Time:** Started 23:18, Finished 00:35
+
 **Format:** Video demo + knowledge check. No hands-on in module.
+
 **Key Concepts Takeaways:**
 - EC2 = Virtual servers. t2.micro = Free Tier eligible
 - Pricing models: On-Demand for unknown traffic, Spot for batch jobs 90% off, Savings Plans 72% off for 1-3yr commit

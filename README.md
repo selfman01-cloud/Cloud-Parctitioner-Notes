@@ -38,3 +38,17 @@ Using Skill Builder labs + documenting everything.
   (ii) Hardware for Global Infrastructures.
 
   **Key Note:** Must be Secured OF the Cloud.
+
+  
+### Module 2: Compute in the Cloud - COMPLETE ✅
+**Date:** Apr 20, 2026 00:35
+**Score:** 86% — Passing: 80%
+**Time:** Started 23:18, Finished 00:35
+**Format:** Video demo + knowledge check. No hands-on in module.
+**Key Concepts Mastered:**
+- EC2 = Virtual servers. t2.micro = Free Tier eligible
+- Pricing models: On-Demand for unknown traffic, Spot for batch jobs 90% off, Savings Plans 72% off for 1-3yr commit
+- Auto Scaling + ELB = elasticity + high availability
+- Exam traps: "Critical" never uses Spot. "Unsure/flexible" = On-Demand
+**Extra Credit:** Found "Builder Labs: Introduction to AWS Cloud" for hands-on EC2. Completed pricing knowledge checks on Savings Plans vs Spot.
+**Next:** Builder Lab 1 for actual EC2 hands-on.

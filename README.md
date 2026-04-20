@@ -61,3 +61,5 @@ https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/64f209c9f5cd9b4
 **Extra Credit:** Found "Builder Labs: Introduction to AWS Cloud" for hands-on EC2. Completed pricing knowledge checks on Savings Plans vs Spot.
 
 **Next:** Builder Lab 1 for actual EC2 hands-on.
+**Assessment Result:**
+https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/main/IMG_2089.jpeg?raw=true

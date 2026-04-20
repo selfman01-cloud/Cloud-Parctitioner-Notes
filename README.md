@@ -39,6 +39,8 @@ Using Skill Builder labs + documenting everything.
 
   **Key Note:** Must be Secured OF the Cloud.
 
+
+
   
 ### Module 2: Compute in the Cloud - COMPLETE ✅
 

@@ -39,7 +39,7 @@ Using Skill Builder labs + documenting everything.
 
   **Key Note:** Must be Secured OF the Cloud.
 
-
+https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/64f209c9f5cd9b41b63702318bd7065841d9a28c/IMG_2092.jpeg?raw=true
 
   
 ### Module 2: Compute in the Cloud - COMPLETE ✅

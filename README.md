@@ -2,7 +2,7 @@
 Studying for AWS Certified Cloud Practitioner. No Free Tier access. 
 Using Skill Builder labs + documenting everything.
 
-**Progress:** 2/12 modules completed
+**Progress:** 3/12 modules completed
 
 **Started:** April 19, 2026 - Lagos, Nigeria.
 
@@ -16,7 +16,7 @@ Using Skill Builder labs + documenting everything.
 ## Modules
 - [x] Module 1: Cloud Concepts - 88%
 - [x] Module 2: Compute in Cloud -86%
-- [ ] Module 3: 
+- [x] Module 3: Lambda - 88%
 
 #AWS #CloudComputing #BuildInPublic
 
@@ -63,3 +63,8 @@ https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/64f209c9f5cd9b4
 **Next:** Builder Lab 1 for actual EC2 hands-on.
 **Assessment Result:**
 https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/main/IMG_2089.jpeg?raw=true
+
+Module 3: Studying how lambda works April, 23
+
+## course study and assessment reault: 
+https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/main/IMG_2172.jpeg? raw=true.

@@ -64,7 +64,9 @@ https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/64f209c9f5cd9b4
 **Assessment Result:**
 https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/main/IMG_2089.jpeg?raw=true
 
-Module 3: Studying how lambda works April, 23
+## Module 3: Studying how lambda works April, 23
 
-## course study and assessment reault: 
+## course study and assessment result: 
 https://github.com/selfman01-cloud/Cloud-Parctitioner-Notes/blob/main/IMG_2172.jpeg? raw=true.
+
+## Module 4: AWS Regions and Infrastructure
